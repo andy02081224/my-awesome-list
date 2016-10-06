@@ -1,0 +1,1 @@
+- [The path of software development craftsmanship](https://rainsoft.io/the-path-of-software-development-craftsmanship/): 追求成為一個「金字塔型」的軟體工程師
