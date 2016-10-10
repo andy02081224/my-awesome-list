@@ -1,0 +1,1 @@
+- [OAuth 2.0 筆記](https://blog.yorkxin.org/2013/09/30/oauth2-1-introduction): 完整的OAuth教學
