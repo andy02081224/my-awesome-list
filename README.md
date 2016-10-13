@@ -6,4 +6,6 @@
 #### [職涯](career.md)
 #### [Web技術](web.md)
 #### [JavaScript](javascript.md)
+#### [C++](c++.md)
+#### [Python](python.md)
 #### [資料結構與演算法](ds-and-algos.md)
