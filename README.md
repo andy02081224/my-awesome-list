@@ -9,3 +9,4 @@
 #### [C++](c++.md)
 #### [Python](python.md)
 #### [資料結構與演算法](ds-and-algos.md)
+#### [程式概念 (重構、設計模式、物件導向、函數式編程...)](programming-concepts.md)
