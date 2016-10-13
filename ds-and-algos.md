@@ -1,1 +1,2 @@
-
+- [Second Round - 初學者寫給初學者的演算法教學](http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html): 大推，作者文筆很棒
+- [Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer/): 視覺化呈現演算過程，Sample Code使用JavaScript
