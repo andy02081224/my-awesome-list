@@ -1,1 +1,2 @@
 - [The path of software development craftsmanship](https://rainsoft.io/the-path-of-software-development-craftsmanship/): 追求成為一個「金字塔型」的軟體工程師
+- [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.j0ymh0srr): GitHub上有名的專案[google-interview-university](https://github.com/jwasham/google-interview-university)作者寫的文章，描述自己為了進入google所做的準備還有心路歷程
