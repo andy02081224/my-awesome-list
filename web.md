@@ -3,6 +3,7 @@
 
 ##### 綜合
 - [Front-End Developer Handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details): 非常完整的線上書籍，內容從前端最佳實踐、實際開發到常用工具一應俱全
+- [Google Developers Web](https://developers.google.com/web/): 包含眾多的[Web開發議題](https://developers.google.com/web/fundamentals/)與[Chrome Dev Tools的使用技巧](https://developers.google.com/web/tools/)
 
 ##### SVG
 - [SVG 完整教學 31 天](http://www.oxxostudio.tw/articles/201410/svg-tutorial.html)
