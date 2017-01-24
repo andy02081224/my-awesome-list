@@ -15,6 +15,9 @@
 - [[必讀] React Components, Elements, and Instances](https://facebook.github.io/react/blog/2015/12/18/react-components-elements-and-instances.html): 很清楚說明了React components、elements還有instance的差別，以及React如何透過「reconciliation」來了解實際要產生的Dom Tree
 - [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.piofe8wz7): 簡潔說明了Redux的優點以及使用Redux時的注意事項
 
+##### Flexbox
+- [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.p1max4l8z): Flexbox完整教學
+
 ## 後端
 ##### Restful API Error Handeling
 - [Restful API 中的错误处理](http://scarletsky.github.io/2016/11/30/error-handling-in-restful-api/)
