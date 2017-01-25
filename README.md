@@ -10,6 +10,6 @@
 #### [JavaScript](javascript.md)
 #### [C++](c++.md)
 #### [Python](python.md)
-#### [C#](c#.md)
+#### [C#](https://github.com/andy02081224/my-awesome-list/blob/master/c%23.md)
 #### [資料結構與演算法](ds-and-algos.md)
 #### [程式概念 (重構、設計模式、物件導向、函數式編程...)](programming-concepts.md)
