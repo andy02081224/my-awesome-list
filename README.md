@@ -4,7 +4,8 @@
 ## 目錄
 
 #### [職涯](career.md)
-#### [Web技術](web.md)
+#### [Web前端](web-frontend.md)
+#### [Web後端](web-backend.md)
 #### [資訊安全](security.md)
 #### [前端套件與框架](front-end-libraries-and-frameworks.md)
 #### [JavaScript](javascript.md)
