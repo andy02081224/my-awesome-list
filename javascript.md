@@ -4,3 +4,6 @@
 
 ## Promise
 - [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+
+## Web Workers
+- [The Basics of Web Workers](https://www.html5rocks.com/en/tutorials/workers/basics/): HTML5Rocks經典文章
